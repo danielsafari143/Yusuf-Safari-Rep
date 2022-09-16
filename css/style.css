@@ -1,0 +1,19 @@
+body
+{
+    background-color: brown;
+    padding: 0;
+    margin: 0;
+}
+form
+{
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+    color: white;
+    padding: 20px;
+}
+input
+{
+    padding: 15px;
+    border-radius: 5px;
+}
